@@ -7,6 +7,7 @@ seletor{
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 :root{
@@ -16,6 +17,7 @@ seletor{
 body{
     height: 100vh;
     color: #FFFFFF;
+    background: #EBF2F5;
 }
 
 body, input, button, textarea{
