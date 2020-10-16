@@ -5,6 +5,7 @@ module.exports = [
         lng: "-49.6455874",
         name: "Lar das meninas",
         description: "Presta assistência a crianças de 06 a 15 anos que se encontram em situação de risco e/ou vulnerabilidade social.",
+        whatsapp: "1234567890",
         images: [
             "https://source.unsplash.com/random?id=1",
             "https://source.unsplash.com/random?id=2"
@@ -20,6 +21,7 @@ module.exports = [
         lng: "-49.6456874",
         name: "Lar dos meninos",
         description: "Presta assistência a crianças de 05 a 14 anos que se encontram em situação de risco e/ou vulnerabilidade social.",
+        whatsapp: "0987654321",
         images: [
             "https://source.unsplash.com/random?id=3",
             "https://source.unsplash.com/random?id=4"
